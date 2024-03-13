@@ -281,7 +281,33 @@ justify-content: center;
   margin-left: 47%;
   margin-top: -19%;
 }
-
+.parrafoD{
+  text-align: center;
+  font-family: "Alegreya", serif; 
+     font-size: 17px;
+     color: #4d4c4c;
+     margin-top: 5%;
+     letter-spacing: 2px;
+}
+.primary{
+  margin-left: 36%;
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  z-index: 0;
+  background: #B4C2D7;
+  overflow: hidden;
+  border: 2px rgb(215, 135, 222);
+  color: rgb(255, 255, 255);
+}
 
 .esperamos{
   margin: 16%;
